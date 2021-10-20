@@ -8,4 +8,8 @@ Comments are written for all steps of the algorithm to better understand the cod
 
 To evaluate the proposed algorithm’s performance, we use the benchmark Berkeley dataset. There are some images of this dataset in the uploaded file (Test_Dataset.rar). Whole dataset is available on: https://github.com/BIDS/BSDS500.git.
 
+The link pointing to our accepted code capsules in CodeOcean is as follows:
+
+https://doi.org/10.24433/CO.8364771.v1
+
 
