@@ -1,4 +1,4 @@
-# CGFFCM-Cluster-weight-and-Group-local-Feature-weight-learning-in-Fuzzy-C-Means-clustering-algorithm
+# CGFFCM: Cluster-weight and Group-local Feature-weight learning in Fuzzy C-Means clustering algorithm for color image segmentation
 
 The Source_Code file includes the MATLAB implementation of the CGFFCM algorithm as described in:
 
@@ -8,7 +8,7 @@ Comments are written for all steps of the algorithm to better understand the cod
 
 To evaluate the proposed algorithm’s performance, we use the benchmark Berkeley dataset. There are some images of this dataset in the uploaded file (Test_Dataset.rar). Whole dataset is available on: https://github.com/BIDS/BSDS500.git.
 
-Condition and terms to use any sources of this project (Codes, Datasets, etc.):
+# Condition and terms to use any sources of this project (Codes, Datasets, etc.):
 
 1) Please cite the following papers:
 
