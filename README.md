@@ -16,7 +16,7 @@ Condition and terms to use any sources of this project (Codes, Datasets, etc.):
 
 [2] M. Hashemzadeh, A. Golzari Oskouei, and N. Farajzadeh, "New fuzzy C-means clustering method based on feature-weight and cluster-weight learning," Applied Soft Computing, vol. 78, pp. 324-345, 2019/05/01/ 2019, doi: https://doi.org/10.1016/j.asoc.2019.02.038.2
 
-Please do not distribute the database or source codes to others without the authorization from Dr. Mahdi Hashemzadeh (Corresponding author).
+2) Please do not distribute the database or source codes to others without the authorization from Dr. Mahdi Hashemzadeh (Corresponding author).
 
 Authors’ Emails: a.golzari@tabrizu.ac.ir (A. Golzari Oskouei), hashemzadeh@azaruniv.ac.ir (M. Hashemzadeh).
 
