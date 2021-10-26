@@ -17,6 +17,6 @@ To evaluate the proposed method, the benchmark Berkeley dataset has been used. T
 
 2) Please do not distribute the database or source codes to others without the authorization from Dr. Mahdi Hashemzadeh (Corresponding author).
 
-Authors’ Emails: a.golzari@tabrizu.ac.ir (A. Golzari Oskouei), hashemzadeh@azaruniv.ac.ir (M. Hashemzadeh).
+Authors’ Emails: a.golzari[at]tabrizu.ac.ir (A. Golzari Oskouei), hashemzadeh[at]azaruniv.ac.ir (M. Hashemzadeh).
 
 
