@@ -11,7 +11,7 @@ To evaluate the proposed method, the benchmark Berkeley dataset has been used. T
 
 1) Please cite the following papers:
 
-[1] A. Golzari Oskouei, M. Hashemzadeh, B. Asheghi, and M.-A. Balafar, "CGFFCM: Cluster-weight and Group-local Feature-weight learning in Fuzzy C-Means clustering algorithm for color image segmentation," Applied Soft Computing, 2021, (Accepted for publication).
+[1] A. G. Oskouei, M. Hashemzadeh, B. Asheghi, and M.-A. Balafar, "CGFFCM: Cluster-weight and Group-local Feature-weight learning in Fuzzy C-Means clustering algorithm for color image segmentation," Applied Soft Computing, p. 108005, 2021/10/26/ 2021, doi: https://doi.org/10.1016/j.asoc.2021.108005.
 
 [2] M. Hashemzadeh, A. Golzari Oskouei, and N. Farajzadeh, "New fuzzy C-means clustering method based on feature-weight and cluster-weight learning," Applied Soft Computing, vol. 78, pp. 324-345, 2019/05/01/ 2019, doi: https://doi.org/10.1016/j.asoc.2019.02.038.2
 
