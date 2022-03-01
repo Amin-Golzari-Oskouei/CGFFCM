@@ -1,7 +1,8 @@
 # CGFFCM: Cluster-weight and Group-local Feature-weight learning in Fuzzy C-Means clustering algorithm for color image segmentation
 
 The Source_Code.rar file includes the MATLAB implementation of the CGFFCM algorithm presented in:
-A. Golzari Oskouei, M. Hashemzadeh, B. Asheghi, and M.-A. Balafar, "CGFFCM: Cluster-weight and Group-local Feature-weight learning in Fuzzy C-Means clustering algorithm for color image segmentation," Applied Soft Computing, 2021, (Accepted for publication).
+
+A. G. Oskouei, M. Hashemzadeh, B. Asheghi, and M.-A. Balafar, "CGFFCM: Cluster-weight and Group-local Feature-weight learning in Fuzzy C-Means clustering algorithm for color image segmentation," Applied Soft Computing, p. 108005, 2021/10/26/ 2021, doi: https://doi.org/10.1016/j.asoc.2021.108005.
 
 Comments are written for all steps of the algorithm for better understanding the code. Also, a demo is implemented for ease of running, which runs by importing the data and other necessary algorithm parameters.
 
